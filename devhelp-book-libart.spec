@@ -6,6 +6,7 @@ Release:	1
 License:	GPL
 Group:		X11/Applications
 Source0:	http://www.devhelp.net/books/books/libart.tar.gz
+# Source0-md5:	bbeaa253f578cc07f5cfb598942de354
 URL:		http://www.devhelp.net/
 Requires:	devhelp
 BuildArch:	noarch
