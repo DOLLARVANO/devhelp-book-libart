@@ -1,5 +1,5 @@
 Summary:	DevHelp book: libart
-Summary(pl):	Ksi±¿ka do DevHelpa o libart
+Summary(pl.UTF-8):   KsiÄ…Å¼ka do DevHelpa o libart
 Name:		devhelp-book-libart
 Version:	1.0
 Release:	1
@@ -17,8 +17,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 DevHelp book about libart.
 
-%description -l pl
-Ksi±¿ka do DevHelpa o libart.
+%description -l pl.UTF-8
+KsiÄ…Å¼ka do DevHelpa o libart.
 
 %prep
 %setup -q -c -n libart
