@@ -1,5 +1,5 @@
 Summary:	DevHelp book: libart
-Summary(pl.UTF-8):   Książka do DevHelpa o libart
+Summary(pl.UTF-8):	Książka do DevHelpa o libart
 Name:		devhelp-book-libart
 Version:	1.0
 Release:	1
